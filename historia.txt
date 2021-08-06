@@ -3,4 +3,11 @@ Tiene 32 a
 En camara parece alto pero la verdad no es tan alto
 Hoy hablaremos de su vida
 Su vida y obra maestra
+<<<<<<< HEAD
 Master 2
+=======
+
+Experimento 1
+Experimento 2
+Master 1
+>>>>>>> Experimento 2
